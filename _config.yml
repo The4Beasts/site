@@ -14,8 +14,8 @@ title                    : "Κατασκευή Συστημάτων Διάδρα
 title_separator          : "-"
 name                     : "pibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://pibook.epidro.me"
-baseurl                  : "https://Vasdekis"
+url                      : "https://Vasdekis"
+baseurl                  : "https://pibook.epidro.me"
 repository               : "pibook/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
