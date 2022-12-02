@@ -15,7 +15,7 @@ title_separator          : "-"
 name                     : "pibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://master--candid-youtiao-ec2950.netlify.app/"
-baseurl                  : "/"
+baseurl                  : ""
 repository               : "pibook/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
