@@ -19,3 +19,15 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/Vasdekis/text
+[submodule "_includes/_gallery"]
+	path = _includes/_gallery
+	url = https://github.com/Vasdekis/_gallery
+[submodule "_includes/_bibliography"]
+	path = _includes/_bibliography
+	url = https://github.com/Vasdekis/bibliography
+[submodule "_includes/_notes"]
+	path = _includes/_notes
+	url = https://github.com/Vasdekis/notes
+[submodule "_includes/_quotes"]
+	path = _includes/_quotes
+	url = https://github.com/Vasdekis/_quotes
