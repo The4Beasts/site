@@ -14,7 +14,7 @@ title                    : "Κατασκευή Συστημάτων Διάδρα
 title_separator          : "-"
 name                     : "pibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://639e3b07fa8d3d68ad1c2a11--sprightly-salamander-ec7da9.netlify.app/"
+url                      : "https://the4beasts.netlify.app/"
 baseurl                  : "/"
 repository               : "pibook/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
