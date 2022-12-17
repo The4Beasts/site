@@ -8,7 +8,7 @@
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/pibook/extras.git
+	url = https://github.com/The4Beasts/extras
 	branch = master
 [submodule "_quotes"]
 	path = _quotes
@@ -24,5 +24,5 @@
 	branch = master
 [submodule "_includes/text"]
 	path = _includes/text
-	url = https://github.com/mibook/text.git
+	url = https://github.com/The4Beasts/text
 	branch = main 
