@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #
 gem 'jekyll'
+gem 'jekyll-sass-converter', '~> 2.0'
 gem 'minimal-mistakes-jekyll'
 
 # Github Pages deployment
