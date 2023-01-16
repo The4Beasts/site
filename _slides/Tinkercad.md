@@ -7,5 +7,6 @@ slides:
   - electrocular
   - electronics
   - elements
+  - arduino
   - tinkercad
 ---
