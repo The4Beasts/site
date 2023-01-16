@@ -10,3 +10,5 @@ tags:
   - Raspberry Pi
   - success
 ---
+
+{% include cs-raspberry-pi.md %}
