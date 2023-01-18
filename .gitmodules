@@ -8,7 +8,7 @@
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/p18kavv/extras
+	url = https://github.com/xristinasp/extras
 	branch = master
 [submodule "_quotes"]
 	path = _quotes
@@ -24,7 +24,7 @@
 	branch = master
 [submodule "_includes/text"]
 	path = _includes/text
-	url = https://github.com/p18kavv/text
+	url = https://github.com/xristinasp/text
 	branch = main 
 [submodule "_ibliography"]
 	path = _ibliography
